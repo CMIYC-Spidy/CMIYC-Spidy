@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kaucher! <br/><a href="https://github.com/CMIYC-Spidy"><a href="https://www.linkedin.com/in/kaucherislamforhad/">IT Specialist & Cybersecurity Professional</a>
 
-<h2>🎭 About The Persona: <code>CMIYC Spidy<code></h2>
+<h2>🎭 About The Persona: <b>CMIYC Spidy</b></h2>
 
 My journey into cybersecurity began with a fascination for the 'Black Hat' world—the challenge, the anonymity, and the high-stakes game of **CMIYC** (Catch Me If You Can). While I have chosen the path of a defensive professional, I don't hide that this 'Black Hat' curiosity was my original driving force. It is what sparked my interest in how systems work and how they are broken.
 
