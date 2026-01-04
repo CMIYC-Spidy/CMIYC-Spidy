@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects and Home Labs:</h2>
 
+- <b>Security Information and Event Management</b>
+  - [SIEM Setup And Configuration](https://github.com/CMIYC-Spidy/SIEM-Setup-And-Configuration)
+    
 <h2>🛜 Networking Projects and Home Labs:</h2>
 
 <h2> 🤳 Connect with me:</h2>
