@@ -1,11 +1,17 @@
 <h1>Hi, I'm Kaucher! <br/><a href="https://github.com/CMIYC-Spidy"><a href="https://www.linkedin.com/in/kaucherislamforhad/">IT Specialist & Cybersecurity Professional</a>
 
+<h2>🎭 About The Persona: <code>CMIYC Spidy<code></h2>
+
+My journey into cybersecurity began with a fascination for the 'Black Hat' world—the challenge, the anonymity, and the high-stakes game of **CMIYC** (Catch Me If You Can). While I have chosen the path of a defensive professional, I don't hide that this 'Black Hat' curiosity was my original driving force. It is what sparked my interest in how systems work and how they are broken.
+
+Today, I use that same 'Attacker Mindset' to build better defenses. **Spidy** represents my deep-dive into the complex web of the internet—network architecture, protocols, and infrastructure. I keep this name as a reminder of where I started and as a promise to never lose that raw curiosity that keeps me pushing myself in this field.
+
 <h2>💻 Cybersecurity Projects & Home Labs:</h2>
 
 - <b>Security Information and Event Management:</b>
   - [SIEM Setup And Configuration](https://github.com/CMIYC-Spidy/SIEM-Setup-And-Configuration)
     
-<h2>🛜 Networking Projects and Home Labs:</h2>
+<h2>🛜 Networking Projects & Home Labs:</h2>
 
 - <b>Network Simulation Using Cisco Packet Tracer:<b>
   -  [Setting Up A Basic Home Network](https://github.com/CMIYC-Spidy/Cisco-Packet-Tracer)  
