@@ -1,30 +1,34 @@
-<h1 align="center">Hi, I'm Kaucher! <br/><a href="https://github.com/CMIYC-Spidy"><a href="https://www.linkedin.com/in/kaucherislamforhad/">IT Specialist & Cybersecurity Professional</a>
+<h1 align="center">Hi, I'm Kaucher! <br/><a href="https://github.com/CMIYC-Spidy"><a href="https://www.linkedin.com/in/kaucherislamforhad/">IT Specialist & Aspiring Cybersecurity Professional</a>
 
-<h2>🎭 About The Persona: <a href="https://github.com/CMIYC-Spidy"><b>CMIYC Spidy</b> </h2>
+<h2>ℹ️ Professional Summary:</b> </h2>
 
-My journey into cybersecurity began with a fascination for the 'Black Hat' world—the challenge, the anonymity, and the high-stakes game of **CMIYC** (Catch Me If You Can). While I have chosen the path of a defensive professional, I don't hide that this 'Black Hat' curiosity was my original driving force. It is what sparked my interest in how systems work and how they are broken.
+I am a technical specialist focused on the intersection of infrastructure management and defensive security. I operate on the principle that effective security is built on a deep, functional understanding of the underlying IT systems. My work is dedicated to building environments that are both operationally efficient and resilient against modern threats.
 
-Today, I use that same 'Attacker Mindset' to build better defenses. **Spidy** represents the internet as an intricate web of protocols and architecture, signifying my deep dive into the digital ecosystem. 
+I treat IT and Security as a unified objective. By leveraging core technical skills in networking and system administration, I ensure that defensive measures are practical and integrated into the workflow rather than being added as an afterthought.
 
-I keep the persona **CMIYC Spidy** as a reminder of where I started and as a promise to never lose that raw curiosity that drives me to push my limits in this field.
+- **Infrastructure Hardening:** Managing and provisioning secured Linux environments and designing segmented network architectures to ensure performance and protection.
 
-<h2>💻 Cybersecurity Projects & Home Labs:</h2>
+- **Security Monitoring & Operations:** Deploying SIEM solutions and configuring comprehensive logging to maintain real-world visibility and threat detection.
+
+- **Operational Resilience:** Maintaining system availability through standardized IT practices while ensuring a proactive security posture.
+
+<h2>💻 SOC Operations & Defensive Security Labs:</h2>
 
 - <b>Security Information and Event Management:</b>
-  - [SIEM Setup And Configuration (In-process)](https://github.com/CMIYC-Spidy/SIEM-Setup-And-Configuration)
+  - [Proactive Defense: SIEM Deployment & Asset Risk Management](https://github.com/KaucherIslam/Proactive-Defense-SIEM-Deployment-And-Asset-Risk-Management)
     
-<h2>🛜 Networking Projects & Home Labs:</h2>
+<h2>🛜 Network Architecture & Infrastructure Security:</h2>
 
 - <b>Network Simulation Using Cisco Packet Tracer:</b>
-  - [Setting Up Industrial Network Architecture: Multi-Department Segmentation](https://github.com/CMIYC-Spidy/Setting-Up-Secure-Industrial-Network-Architecture-Multi-Department-Segmentation)
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ [Infrastructure Defense: Advanced ACL & Sticky MAC Implementation](https://github.com/CMIYC-Spidy/Infrastructure-Defense-Advanced-ACL-and-Sticky-MAC-Implementation)
+  - [Setting Up Industrial Network Architecture: Multi-Department Segmentation](https://github.com/KaucherIslam/Setting-Up-Secure-Industrial-Network-Architecture-Multi-Department-Segmentation)
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ [Infrastructure Defense: Advanced ACL & Sticky MAC Implementation](https://github.com/KaucherIslam/Infrastructure-Defense-Advanced-ACL-and-Sticky-MAC-Implementation)
 
-<h2>🖥️ System Administration & Infrastructure Projects:</h2>
+<h2>🖥️ Enterprise Administration & System Hardening:</h2>
 
 - <b>Linux System Administration & Environment Hardening:<b>
-  -  [Headless Ubuntu Server Installation & Provisioning](https://github.com/CMIYC-Spidy/Headless-Ubuntu-Server-Installation-and-Provisioning)
-  -  [CLI Workflow Optimization](https://github.com/CMIYC-Spidy/CLI-Workflow-Optimization)
-  -  [Host-Based Hardening & Secure SSH Access](https://github.com/CMIYC-Spidy/Host-Based-Hardening-Secure-SSH-Access)
+  -  [Headless Ubuntu Server Installation & Provisioning](https://github.com/KaucherIslam/Headless-Ubuntu-Server-Installation-and-Provisioning)
+  -  [CLI Workflow Optimization](https://github.com/KaucherIslam/CLI-Workflow-Optimization)
+  -  [Host-Based Hardening & Secure SSH Access](https://github.com/KaucherIslam/Host-Based-Hardening-Secure-SSH-Access)
 
 <h2> 📃 Professional Certificates:</h2>
 
