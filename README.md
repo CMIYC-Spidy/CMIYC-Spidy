@@ -15,20 +15,21 @@ I treat IT and Security as a unified objective. By leveraging core technical ski
 <h2>💻 SOC Operations & Defensive Security Labs:</h2>
 
 - <b>Security Information and Event Management:</b>
-  - [Proactive Defense: SIEM Deployment & Asset Risk Management](https://github.com/KaucherIslam/Proactive-Defense-SIEM-Deployment-And-Asset-Risk-Management)
+  - [Proactive Defense: SIEM Deployment & Asset Risk Management](https://github.com/KaucherIslam/Proactive-Defense-SIEM-Deployment-And-Asset-Risk-Management/blob/main/README.md)
+  - [SQL Security Analysis: Incident Investigation & Asset Management](https://github.com/KaucherIslam/SQL-Security-Analysis-Incident-Investigation-and-Asset-Management/blob/main/README.md)
     
 <h2>🛜 Network Architecture & Infrastructure Security:</h2>
 
 - <b>Network Simulation Using Cisco Packet Tracer:</b>
-  - [Setting Up Industrial Network Architecture: Multi-Department Segmentation](https://github.com/KaucherIslam/Setting-Up-Secure-Industrial-Network-Architecture-Multi-Department-Segmentation)
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ [Infrastructure Defense: Advanced ACL & Sticky MAC Implementation](https://github.com/KaucherIslam/Infrastructure-Defense-Advanced-ACL-and-Sticky-MAC-Implementation)
+  - [Setting Up Industrial Network Architecture: Multi-Department Segmentation](https://github.com/KaucherIslam/Setting-Up-Secure-Industrial-Network-Architecture-Multi-Department-Segmentation/blob/main/README.md)
+    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ [Infrastructure Defense: Advanced ACL & Sticky MAC Implementation](https://github.com/KaucherIslam/Infrastructure-Defense-Advanced-ACL-and-Sticky-MAC-Implementation/blob/main/README.md)
 
 <h2>🖥️ Enterprise Administration & System Hardening:</h2>
 
 - <b>Linux System Administration & Environment Hardening:<b>
-  -  [Headless Ubuntu Server Installation & Provisioning](https://github.com/KaucherIslam/Headless-Ubuntu-Server-Installation-and-Provisioning)
-  -  [CLI Workflow Optimization](https://github.com/KaucherIslam/CLI-Workflow-Optimization)
-  -  [Host-Based Hardening & Secure SSH Access](https://github.com/KaucherIslam/Host-Based-Hardening-Secure-SSH-Access)
+  -  [Headless Ubuntu Server Installation & Provisioning](https://github.com/KaucherIslam/Headless-Ubuntu-Server-Installation-and-Provisioning/blob/main/README.md)
+  -  [CLI Workflow Optimization](https://github.com/KaucherIslam/CLI-Workflow-Optimization/blob/main/README.md)
+  -  [Host-Based Hardening & Secure SSH Access](https://github.com/KaucherIslam/Host-Based-Hardening-Secure-SSH-Access/blob/main/README.md)
 
 <h2> 📃 Professional Certificates:</h2>
 
