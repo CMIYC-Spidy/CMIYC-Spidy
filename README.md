@@ -33,20 +33,22 @@ I treat IT and Security as a unified objective. By leveraging core technical ski
 
 <h2>🖥️ Enterprise Administration & System Hardening:</h2>
 
-- <b>Linux System Administration & Environment Hardening:<b>
+- <b>Linux System Administration & Environment Hardening:</b>
   -  [Headless Ubuntu Server Installation & Provisioning](https://github.com/KaucherIslam/Headless-Ubuntu-Server-Installation-and-Provisioning/blob/main/README.md)
   -  [CLI Workflow Optimization](https://github.com/KaucherIslam/CLI-Workflow-Optimization/blob/main/README.md)
   -  [Host-Based Hardening & Secure SSH Access](https://github.com/KaucherIslam/Host-Based-Hardening-Secure-SSH-Access/blob/main/README.md)
 
 <h2>📜 Education & Professional Certificates:</h2>
 
-- <b>Degree:<b>
-  - [B.Sc in Computer Science from University of the People (3rd Year, Expected In 2027)](https://drive.google.com/file/d/1ZSxjmyPJZax4ftt4Uk2scT5K2yhz57su/view?usp=sharing)
+- **Degree:**
+  - [B.Sc in Computer Science from University of the People (3rd Year, Expected Between Q4/2027 - Q2/2028)](https://drive.google.com/file/d/1KO9N2Z2Yhu34RdsCEKlHgL9PIkTiqCHP/view?usp=sharing)
+
+    *Studying intensive bachelors Computer Science with University of the People (an accredited American university): It carries American regional accreditation from Western Association of Schools and Colleges (WASC) Senior College and University Commission which is the number one accreditor in the USA system which accredits other institutions like Stanford, Harvard, and University of California system. The course includes rigorous study on computer systems, data structure and algorithms, operating system organization and architecture, secure design and build for applications resulting in enhanced capabilities to be an engineer at own accord and independent task management & execution within technical field.*
 
 - <b>Professional Certificates:</b>
   - [Google Cybersecurity](https://coursera.org/verify/professional-cert/20EJ47DJ5PKP)
   - [Google IT Support](https://coursera.org/verify/professional-cert/89ITJ07CTPOC)
-  - CCNA: Cisco Certified Network Associate (Expected In Q4/2026 - Q1/2027)
+  - CCNA: Cisco Certified Network Associate (Expected Between Q4/2026 - Q1/2027)
   - CompTIA Security+ SYO-701 (Expected In 2027)
   - ISC2 Certified in Cybersecurity (Exam date: 2-/11/2026)
  
