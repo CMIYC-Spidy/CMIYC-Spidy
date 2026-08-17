@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kaucher! <br/><a href="https://github.com/CMIYC-Spidy"><a href="https://www.linkedin.com/in/kaucherislamforhad/">IT & Cybersecurity Professional</a>
+<h1 align="center">Hi, I'm Kaucher! <br/><a href="https://github.com/CMIYC-Spidy"><a href="https://www.linkedin.com/in/kaucherislamforhad/">Aspiring IT & Network Security Professional</a>
 
 <h2>⚙️ Professional Summary:</b> </h2>
 
@@ -21,7 +21,6 @@ I treat IT and Security as a unified objective. By leveraging core technical ski
 - <b>SEIM Engineering & Log Analysis:</b>
   - [Proactive Defense: SIEM Deployment & Asset Risk Management with Wazuh](https://github.com/KaucherIslam/Proactive-Defense-SIEM-Deployment-And-Asset-Risk-Management/blob/main/README.md)
   - [SIEM Log Engineering: Building and Troubleshooting a High-Fidelity Data Pipeline in Wazuh](https://github.com/KaucherIslam/SIEM-Log-Engineering-Building-and-Troubleshooting-a-High-Fidelity-Data-Pipeline-in-Wazuh/blob/main/README.md)
-    <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↳ []()
     
 <h2>🛜 Network Architecture & Infrastructure Security:</h2>
 
@@ -42,13 +41,14 @@ I treat IT and Security as a unified objective. By leveraging core technical ski
 <h2>📜 Education & Professional Certificates:</h2>
 
 - <b>Degree:<b>
-  - [B.Sc in Computer Science from University of the People (Expected In 2027)](https://drive.google.com/file/d/1ZSxjmyPJZax4ftt4Uk2scT5K2yhz57su/view?usp=sharing)
+  - [B.Sc in Computer Science from University of the People (3rd Year, Expected In 2027)](https://drive.google.com/file/d/1ZSxjmyPJZax4ftt4Uk2scT5K2yhz57su/view?usp=sharing)
 
 - <b>Professional Certificates:</b>
   - [Google Cybersecurity](https://coursera.org/verify/professional-cert/20EJ47DJ5PKP)
   - [Google IT Support](https://coursera.org/verify/professional-cert/89ITJ07CTPOC)
-  - CompTIA Security+ SYO-701 (Expected In Late 2026)
-  - ISC2 Certified in Cybersecurity (Exam date: --/06/2026)
+  - CCNA: Cisco Certified Network Associate (Expected In Q4/2026 - Q1/2027)
+  - CompTIA Security+ SYO-701 (Expected In 2027)
+  - ISC2 Certified in Cybersecurity (Exam date: 2-/11/2026)
  
 - <b>Professional Tranning</b>
-  - [Cisco Certified Network Associate (In-progress) from AIUB Institute of Continuing Education](https://ice.aiub.edu/course/offers/112/ccna-batch-332)  
+  - [Cisco Certified Network Associate (Expected in 18/9/2026) from AIUB Institute of Continuing Education](https://ice.aiub.edu/course/offers/112/ccna-batch-332)  
